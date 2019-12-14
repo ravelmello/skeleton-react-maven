@@ -3,6 +3,7 @@
 How this works???
 
 You need run : mvn clean 
+
 After : mvn build
 
 Finish: java -jar ${base_dir}/target/skeleton-oi.jar or if you open this project at Eclipse or other IDE, run as Java App.
